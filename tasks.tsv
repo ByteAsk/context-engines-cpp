@@ -1,0 +1,13 @@
+task	repo	base_commit	issue	fix_pr
+HDFGroup__hdf5-6518	HDFGroup/hdf5	a3cf1ea82cc7	6023	6518
+HDFGroup__hdf5-6660	HDFGroup/hdf5	a3cf1ea82cc7	6655	6660
+HDFGroup__hdf5-6686	HDFGroup/hdf5	a3cf1ea82cc7	6679	6686
+HDFGroup__hdf5-6722	HDFGroup/hdf5	a3cf1ea82cc7	6721	6722
+KhronosGroup__SPIRV-Tools-6867	KhronosGroup/SPIRV-Tools	907d104d2b71	6736	6867
+OSGeo__PROJ-4902	OSGeo/PROJ	beef4145b123	4875	4902
+apache__arrow-51251	apache/arrow	ff30c725d28f	51224	51251
+google__highway-3500	google/highway	1332fe861b6b	3494	3500
+lballabio__QuantLib-2792	lballabio/QuantLib	7cafe5e4b84b	2787	2792
+lballabio__QuantLib-2793	lballabio/QuantLib	7cafe5e4b84b	2791	2793
+open-telemetry__opentelemetry-cpp-4236	open-telemetry/opentelemetry-cpp	04b97c7b9a7a	4235	4236
+opencv__opencv-29853	opencv/opencv	59a0461d502c	20185	29853
